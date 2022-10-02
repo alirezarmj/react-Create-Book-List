@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  outline: none;
+}
+
+
+
+body {
+
+  font-family: "Vazir", "tahoma", "Ubuntu" !important;
+
+}
+.leftCol{
+  background: rgb(187, 184, 184);
+}
+.contain{
+  background: rgb(187, 184, 184);
+  font-size: 12px;
+
+}
+svg {
+  vertical-align: middle;
+  color: red;
+  cursor: pointer;
+}
